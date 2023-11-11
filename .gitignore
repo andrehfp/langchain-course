@@ -1,0 +1,6 @@
+.venv
+Class 5/Chinook.db
+.env
+Class 5/__pycache__/*
+Class 4/__pycache__/*
+Class 2/__pycache__/langchain_helper.cpython-311.pyc
